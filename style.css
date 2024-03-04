@@ -3,8 +3,11 @@
   margin: 0;
 }
 header {
-  height: 7vh;
+  height: 10vh;
   width: 100vw;
   color: gray;
   border: 1px solid black;
+  text-align: center;
+  justify-content: space-around;
+  align-items: center;
 }
